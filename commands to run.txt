@@ -1,1 +1,4 @@
-
+sudo python3 full_correlation_monitor.py
+python3 traditional.py
+source /home/anmol/ebpf_project/venv/bin/activate   > basically it is used to activate the venv for running stramlit command
+streamlit run dashboard_app.py
